@@ -1,0 +1,27 @@
+{
+		"searchFilename"	:	"ダウンロードファイル名の検索方法",
+		"searchFilename"	:	"ex. Sentinel-2 : S2*_MSIL2A* ",
+		"searchFilename"	:	"ex. Sentinel-3 : S3*WRR* ",
+		"searchFilename"	:	"S2*_MSIL2A*",
+		"searchFilename"	:	"S3*WRR*",
+		"dataBase"	:	"Corpernicus frameworkのdatabase名",
+		"dataBase"	:	"CODA,OAHを現在のところ設定",
+		"dataBase"	:	"CODA",
+		"beginDate" : 	"検索開始時期(YY-MM-DDで記述)",
+		"beginDate" : 	"2020-01-01",
+		"endDate"	:	"検索終了時期(YY-MM-DDで記述)",
+		"endDate"	:	"2020-09-10",
+		"lats"		:	"場所の緯度(ポイントかポリゴンで指定可能)",
+        "lats"		:	"35.66",
+		"lons"		:	"場所の経度(ポイントかポリゴンで指定可能)",
+		"lons"		:	"139.80",
+		"userId"	:	"ODAH/OAHのuserId",
+		"userId"	:	"hoge",
+		"password"	:	"ODAH/OAHののpassword",
+		"password"	:	"bar",
+		"outputXML"	:	"検索結果を格納するXMLファイル名",
+		"outputXML"	:	"thistest.xml",
+		"debugFlag"	:	"wgetをドライランするか",
+		"debugFlag"	:	false
+}
+
