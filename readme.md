@@ -49,7 +49,7 @@ python corpernicsDownload.py
 
 |設定ファイル名|説明|
 |-------------|-----|
-|searchFilename|ダウンロードファイル名の検索方法 <br> ex. Sentinel-2 : S2*_MSIL2A* <br> Sentinel-3 : S3*WRR* |
+|searchFilename|ダウンロードファイル名の検索方法 <br> ex. Sentinel-2 : `S2*_MSIL2A*` <br> Sentinel-3 : `S3*WRR*` |
 |dataBase |	Corpernicus frameworkのdatabase名 <br>Open Access Hub : OAH <br>Copernicus Open Access Hub : CODA |
 |beginDate| 検索開始時期(YY-MM-DDで記述)(センサーの取得時期)|
 |endDate| 検索終了時期(YY-MM-DDで記述)(センサーの取得時期) |
